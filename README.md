@@ -10,7 +10,7 @@ Telegram bot that manages a product catalog, allowing administrators to add and 
 git clone https://github.com/grisha765/shop_tg_bot.git
 cd shop_tg_bot
 python3 -m venv venv
-venv/bin/pip install pyrogram
+venv/bin/pip install pyrofork aiohttp
 ```
 
 ### Run Bot
