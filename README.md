@@ -56,7 +56,7 @@ venv/bin/python main.py -t TOKEN
 
 ### Dependencies
 
-1. pyrogram: For Telegram API interaction.
+1. pyrofork: For Telegram API interaction.
 2. sqlite3: For database management.
 
 ### Notes
